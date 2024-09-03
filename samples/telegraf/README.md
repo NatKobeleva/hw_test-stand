@@ -1,0 +1,6 @@
+![Alt text](./images/telegraf01.png)
+![Alt text](./images/telegraf02.png)
+![Alt text](./images/telegraf03.png)
+![Alt text](./images/telegraf04.png)
+![Alt text](./images/telegraf05.png)
+![Alt text](./images/telegraf06.png)
